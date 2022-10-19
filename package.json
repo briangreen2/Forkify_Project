@@ -1,0 +1,26 @@
+{
+  "name": "forkiy_project",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briangreen2/Forkify_Project.git"
+  },
+  "author": "Brian Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briangreen2/Forkify_Project/issues"
+  },
+  "homepage": "https://github.com/briangreen2/Forkify_Project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
